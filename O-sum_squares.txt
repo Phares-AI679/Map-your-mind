@@ -1,0 +1,10 @@
+enter Number
+Number1 = n
+Number2 = m
+
+calculate the square
+squareNumber1 = Number1 * Number1
+squareNumber2 = Number2 * Number2
+
+calculate sum of square
+sum =squareNumber1 + squareNumber2

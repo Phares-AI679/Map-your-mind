@@ -1,0 +1,20 @@
+Enter three numbers
+numbers=m,n,o
+
+if (m > n > o)
+print m n o
+
+else if (!m > n & m > o)
+print n m o
+
+else if (o > n & n > m)
+print o n m
+
+else if (!o > n & o > m)
+print n o m
+
+else if (!o > m & o > m)
+print m o n
+
+else if ( o > m & m > n)
+print o m n

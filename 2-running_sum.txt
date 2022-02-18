@@ -1,0 +1,5 @@
+Total number = 0
+Declare list of numbers = [numbers positive and negative]
+from each number add the next to the previous one
+if next number is a negative number stop adding
+total number = sum of numbers before negative number
